@@ -86,7 +86,7 @@
       term.setCursorPos(24,6)
       print("("..ng..")")
       term.setCursorPos(32,9)
-      print("Super Grandma")
+      print("Kitten Grandma")
       term.setCursorPos(32,10)
       print("($500")
       term.setCursorPos(24,9)
